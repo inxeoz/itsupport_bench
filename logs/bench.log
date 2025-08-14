@@ -25,3 +25,17 @@
 2025-08-15 03:58:33,578 INFO /home/inxeoz/.venvs/cenv/bin/bench worker
 2025-08-15 03:58:33,607 INFO /home/inxeoz/.venvs/cenv/bin/bench serve --port 8000
 2025-08-15 03:58:33,613 INFO /home/inxeoz/.venvs/cenv/bin/bench schedule
+2025-08-15 04:03:37,530 INFO /home/inxeoz/.venvs/cenv/bin/bench set-config developer_mode 1
+2025-08-15 04:03:58,136 INFO /home/inxeoz/.venvs/cenv/bin/bench set-config server_script_enabled true
+2025-08-15 04:03:59,777 INFO /home/inxeoz/.venvs/cenv/bin/bench start
+2025-08-15 04:03:59,940 INFO /home/inxeoz/.venvs/cenv/bin/bench serve --port 8000
+2025-08-15 04:03:59,953 INFO /home/inxeoz/.venvs/cenv/bin/bench worker
+2025-08-15 04:03:59,966 INFO /home/inxeoz/.venvs/cenv/bin/bench schedule
+2025-08-15 04:03:59,985 INFO /home/inxeoz/.venvs/cenv/bin/bench watch
+2025-08-15 04:05:48,471 INFO /home/inxeoz/.venvs/cenv/bin/bench set-config server_script_enabled true
+2025-08-15 04:05:49,861 INFO /home/inxeoz/.venvs/cenv/bin/bench start
+2025-08-15 04:05:50,029 INFO /home/inxeoz/.venvs/cenv/bin/bench schedule
+2025-08-15 04:05:50,035 INFO /home/inxeoz/.venvs/cenv/bin/bench worker
+2025-08-15 04:05:50,051 INFO /home/inxeoz/.venvs/cenv/bin/bench serve --port 8000
+2025-08-15 04:05:50,064 INFO /home/inxeoz/.venvs/cenv/bin/bench watch
+2025-08-15 04:07:59,613 INFO /home/inxeoz/.venvs/cenv/bin/bench migrate
