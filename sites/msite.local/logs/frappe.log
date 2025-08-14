@@ -1,0 +1,6 @@
+2025-08-15 04:21:35,696 ERROR frappe New Exception collected in error log
+Site: msite.local
+Form Dict: {'cmd': 'mapp.mapp.api.dev.build_static_ui'}
+2025-08-15 04:23:23,091 ERROR frappe New Exception collected in error log
+Site: msite.local
+Form Dict: {'cmd': 'mapp.mapp.api.dev.build_static_ui'}
