@@ -7,5 +7,15 @@
         "required": [],
         "idx": 1,
         "version": "16.0.0-dev"
+    },
+    "itsupport_frappe": {
+        "is_repo": true,
+        "resolution": {
+            "commit_hash": "f78bf5040d392bb242a2000089036a07be125a47",
+            "branch": "develop"
+        },
+        "required": [],
+        "idx": 2,
+        "version": "0.0.1"
     }
 }

@@ -1,0 +1,3 @@
+[submodule "apps/itsupport_frappe"]
+	path = apps/itsupport_frappe
+	url = git@github.com:inxeoz/itsupport_frappe.git

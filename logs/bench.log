@@ -11,3 +11,9 @@
 2025-08-15 03:44:37,841 LOG setting up backups
 2025-08-15 03:44:37,850 LOG backups were set up
 2025-08-15 03:44:37,850 INFO Bench itsupport_bench initialized
+2025-08-15 03:48:03,050 INFO /home/inxeoz/.venvs/cenv/bin/bench new-app itsupport_frappe
+2025-08-15 03:48:03,052 LOG creating new app itsupport_frappe
+2025-08-15 03:48:17,346 LOG Installing itsupport_frappe
+2025-08-15 03:48:17,347 DEBUG cd /home/inxeoz/work/itsupport_bench && /home/inxeoz/work/itsupport_bench/env/bin/python -m pip install --quiet --upgrade -e /home/inxeoz/work/itsupport_bench/apps/itsupport_frappe 
+2025-08-15 03:48:18,436 DEBUG bench build --app itsupport_frappe
+2025-08-15 03:48:18,516 INFO /home/inxeoz/.venvs/cenv/bin/bench build --app itsupport_frappe
