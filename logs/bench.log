@@ -17,3 +17,11 @@
 2025-08-15 03:48:17,347 DEBUG cd /home/inxeoz/work/itsupport_bench && /home/inxeoz/work/itsupport_bench/env/bin/python -m pip install --quiet --upgrade -e /home/inxeoz/work/itsupport_bench/apps/itsupport_frappe 
 2025-08-15 03:48:18,436 DEBUG bench build --app itsupport_frappe
 2025-08-15 03:48:18,516 INFO /home/inxeoz/.venvs/cenv/bin/bench build --app itsupport_frappe
+2025-08-15 03:57:42,323 INFO /home/inxeoz/.venvs/cenv/bin/bench new-site msite.local
+2025-08-15 03:58:07,880 INFO /home/inxeoz/.venvs/cenv/bin/bench use msite.local
+2025-08-15 03:58:21,256 INFO /home/inxeoz/.venvs/cenv/bin/bench install-app itsupport_frappe
+2025-08-15 03:58:33,404 INFO /home/inxeoz/.venvs/cenv/bin/bench start
+2025-08-15 03:58:33,569 INFO /home/inxeoz/.venvs/cenv/bin/bench watch
+2025-08-15 03:58:33,578 INFO /home/inxeoz/.venvs/cenv/bin/bench worker
+2025-08-15 03:58:33,607 INFO /home/inxeoz/.venvs/cenv/bin/bench serve --port 8000
+2025-08-15 03:58:33,613 INFO /home/inxeoz/.venvs/cenv/bin/bench schedule

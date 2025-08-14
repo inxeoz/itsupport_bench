@@ -1,5 +1,6 @@
 {
  "background_workers": 1,
+ "default_site": "msite.local",
  "file_watcher_port": 6787,
  "frappe_user": "inxeoz",
  "gunicorn_workers": 17,
