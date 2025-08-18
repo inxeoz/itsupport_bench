@@ -1,8 +1,9 @@
 {
- "db_name": "_eb56da859af9f31e",
- "db_password": "VfJAPw9B0b9eVcHb",
+ "db_name": "_6dc39a25e539d14d",
+ "db_password": "pAwzpu4bY5mCEo4b",
  "db_type": "mariadb",
- "db_user": "_eb56da859af9f31e",
+ "db_user": "_6dc39a25e539d14d",
  "developer_mode": 1,
+ "encryption_key": "4Q7rwpOppi0B6lf9dIJOpchvuvJE9Md_QSLDr702xfg=",
  "server_script_enabled": true
 }
